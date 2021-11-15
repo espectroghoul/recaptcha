@@ -25,7 +25,7 @@
                 Escreva sua reclamação abaixo:<br>
                 <textarea name="reclamação" rows="5" cols="50"></textarea>
             </label><br>
-            <div data-sitekey="6LcvlTgdAAAAANrH-RNARnQgbPscHxnbi_uRTVk3"></div>
+            <div class="scaptcha" data-sitekey="6LcvlTgdAAAAANrH-RNARnQgbPscHxnbi_uRTVk3"></div>
             <input type="submit" value="ENVIAR" id="botão">
         </form>
     </div>
