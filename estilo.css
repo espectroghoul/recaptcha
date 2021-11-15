@@ -36,3 +36,7 @@ body {
     margin-left: 400px;
     border-radius: 5px;
 }
+
+.scaptcha {
+    margin-left: 150px;
+}
