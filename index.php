@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>Formulário de Reclamação</title>
+    <title>Formulário de mação</title>
     <link rel="stylesheet" href="estilo.css">
     <script src="https://google.com/recaptcha/api.js"></script>
 </head>
