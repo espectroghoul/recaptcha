@@ -10,7 +10,7 @@
 
     <h1>Página de Reclamação</h1>
     <div class="corpo">
-        <form action="">
+        <form method="post" action="verificar.php">
             <label for="nome">
                 Nome completo:<br>
                 <input type="text" id="nome" name="nome"><br>
